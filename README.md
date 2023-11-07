@@ -1,7 +1,5 @@
 # Week-5-DailyPlanner
 Daily Planner
-# Week-5-Challenge
-Daily Planner
 ## Description
 In the Week-5-Challenge we were expecte to created a daily planner for an employee with a busy schedule. Acceptance criteria listed below.
 - Given I am using a daily planner to create a schedule
